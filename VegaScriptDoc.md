@@ -1,8 +1,8 @@
-#Client scripting
+####Client scripting
 
 This is the official documentation of the Client scripting language
 
-#Interpreters
+####Interpreters
 
 #### _Functions_
 Note that every function must be included in a Module. This means, that in order to execute a function the moduleName must be given like this: `ModuleName_EventName` 
